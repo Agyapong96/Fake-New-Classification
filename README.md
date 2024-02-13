@@ -10,5 +10,9 @@ Feature engineering: Extracting relevant features from the text that might indic
 Model development: Building and training machine learning models to classify news articles as real or fake.
 Model evaluation: Assessing the performance of the models and comparing different approaches.
 
+## Dataset
+The project uses the Fake News dataset available on Kaggle: https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection/data
+This dataset contains news articles labeled as real or fake.
+
 ## Results
 This project achieved a validation accuracy of 99%, demonstrating the effectiveness of the LSTM algorithm in identifying fake news articles. 
